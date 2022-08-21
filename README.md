@@ -3,7 +3,7 @@
 -----
 
 <p align="center">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/d85df069351197.5bb290b07eb6b.jpg", width="500", height="500">
+<img src="https://i.pinimg.com/originals/e7/9c/b8/e79cb8435ba79bf48c562cbbe93a1a2f.jpg", width="500", height="500">
 </p>
 
 -----
@@ -12,7 +12,7 @@
 <p align="center">
 <strong>
 Best phone debouncer and checker for free !
-<img src="">
+<img src="https://discord.gg/P2ptYKA7H6">
 </strong>
 </p>
 
